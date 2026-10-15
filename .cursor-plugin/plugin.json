@@ -1,0 +1,17 @@
+{
+  "name": "slopcannon",
+  "displayName": "SLOPCANNON",
+  "description": "Make AI music videos with SLOPCANNON (slop.cc) from Cursor and Grok Bot: song + cast + concept to a finished, lip-synced MP4, with rights and spend gates built in. Unofficial community plugin. Requires a slop.cc API token.",
+  "version": "0.1.0",
+  "author": {
+    "name": "lalo morales"
+  },
+  "publisher": "slopcannon-community",
+  "homepage": "https://slop.cc/for-agents",
+  "repository": "https://github.com/OWNER/slopcannon-grok-plugin",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": ["slopcannon", "slop.cc", "music-video", "video-generation", "lip-sync", "mcp"],
+  "category": "developer-tools",
+  "tags": ["media", "creative", "ai-generation", "video", "music"]
+}
