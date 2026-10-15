@@ -8,7 +8,7 @@
   },
   "publisher": "slopcannon-community",
   "homepage": "https://slop.cc/for-agents",
-  "repository": "https://github.com/OWNER/slopcannon-grok-plugin",
+  "repository": "https://github.com/lalomorales22/slopcannon-grok-plugin",
   "license": "MIT",
   "logo": "assets/logo.png",
   "keywords": ["slopcannon", "slop.cc", "music-video", "video-generation", "lip-sync", "mcp"],

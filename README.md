@@ -18,7 +18,7 @@
 **Grok Bot / Cursor:** add this repository as a plugin (for example, a plugin marketplace entry or a local plugin pointing at a clone of this repo), then enable it.
 
 ```bash
-git clone https://github.com/OWNER/slopcannon-grok-plugin.git
+git clone https://github.com/lalomorales22/slopcannon-grok-plugin.git
 ```
 
 ## Token setup

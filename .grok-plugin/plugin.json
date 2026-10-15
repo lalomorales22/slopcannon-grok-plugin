@@ -7,7 +7,7 @@
     "url": "https://slop.cc"
   },
   "homepage": "https://slop.cc/for-agents",
-  "repository": "https://github.com/OWNER/slopcannon-grok-plugin",
+  "repository": "https://github.com/lalomorales22/slopcannon-grok-plugin",
   "license": "MIT",
   "keywords": ["slopcannon", "slop.cc", "music video", "ai video", "lip sync", "mcp"],
   "logo": "assets/logo.png"
