@@ -11,7 +11,7 @@ You are the director; SLOPCANNON is the execution harness. The official, always-
 
 ## Before you start
 
-1. The SLOPCANNON MCP server (`https://api.slop.cc/mcp`) is connected with the user's token. If a tool returns an auth error, ask the user to check `SLOPCANNON_API_TOKEN` in the plugin settings (tokens are created at `https://slop.cc/account`). Never ask for the token in chat; never print, log, echo, or pass it as a command-line flag.
+1. The SLOPCANNON MCP server (`https://api.slop.cc/api/mcp`) is connected with the user's token. If a tool returns an auth error, ask the user to check `SLOPCANNON_API_TOKEN` in the plugin settings (tokens are created at `https://slop.cc/account`). Never ask for the token in chat; never print, log, echo, or pass it as a command-line flag.
 2. Call `slopcannon_capabilities` (or read `https://api.slop.cc/v1/capabilities`). Treat it as authoritative for limits, prices, and readiness, and use the absolute URLs in its `endpoints` object. Never invent endpoints or tool names. Never claim a job was submitted without a returned job ID.
 3. If a readiness flag the plan needs (`hostedRuntime.submissionReady`, server scene-audio slicing, `contract.assembly.serverReady`, ...) is false, preserve state and report the missing capability before spending.
 

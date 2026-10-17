@@ -8,7 +8,7 @@
 
 | Path | What it is |
 | --- | --- |
-| `mcp.json`, `.mcp.json` | Remote HTTP MCP server `https://api.slop.cc/mcp`, Bearer token auth |
+| `mcp.json`, `.mcp.json` | Remote HTTP MCP server `https://api.slop.cc/api/mcp`, Bearer token auth |
 | `skills/slopcannon-music-video/` | End-to-end workflow: brief, rights, plan, quote, scene 1, rest, assemble |
 | `commands/slopcannon.md` | `/slopcannon`: getting started and natural-language entrypoint |
 | `.grok-plugin/`, `.cursor-plugin/` | Plugin manifests |
